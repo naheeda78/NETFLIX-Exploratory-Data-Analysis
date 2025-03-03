@@ -16,4 +16,14 @@ The goal of this project was to analyze Netflix's vast content library to uncove
 - Seaborn
 - Wordcloud
 
+# Key Insights:
+1️⃣ Movies dominate with 69.7% of titles in the catalog.
+
+2️⃣ Top genres include International Dramas, Documentaries, and Stand-Up Comedy.
+
+3️⃣ Significant content growth post-2000, driven by expansion in the U.S., India, and the U.K.
+
+4️⃣ Rajiv Chilaka, Alastair Fothergill, and Raul Campos are among the most featured directors.
+
+5️⃣ TV-MA (mature audience) is the most common rating, reflecting diverse viewer preferences.
   
